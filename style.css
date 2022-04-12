@@ -9,7 +9,7 @@ body {
     border: thick solid black;
     left: 0;
     top: 0;
-    pointer-events: fill;
+    pointer-events: none;
     position: relative;
     transform: translate(-50%, -50%);
     transition: .1%;
